@@ -2,7 +2,8 @@
 
 ## Índice
 [Introdução](#1-introdução)  
-[Projeto 01 - Calculadora](#projeto-01---calculadora)
+[Projeto 01 - Calculadora](#projeto-01---calculadora)  
+[Projeto 02 - Locadora](#projeto-02---locadora)
 
 ## Introdução
 
@@ -19,4 +20,10 @@ Neste projeto foi desenvolvida uma calculadora para uso no console utilizando pa
 Aqui temos em uso lista, dicionário, laços de repetição while e for, estruturas condicionais e também uma breve utilização do módulo os para limpar a tela do console em algumas ocasiões. 
 
 A calculadora executa 5 operações matemáticas: adição, subtração, multiplicação, divisão e exponenciação.
+
+## Projeto 02 - Locadora
+
+Aqui foi desenvolvido uma simulação de uma locadora de veículos, em que o usuário pode escolher entre mostrar os veículos disponíveis para aluguel, alugar um veículo ou devolver um veículo.
+
+Os carros estão originalmente salvos em uma lista que contém tuplas que guardam os nomes dos carroes e seus respectivos valores de diária. Quando o usuário decide por alugar um determinado carro ele passa para outra lista, que está em branco no início do programa. Depois, o usuário pode optar por devolver o carro, quando esse veículo passará novamente a fazer parte da lista de carros disponíveis.
 
