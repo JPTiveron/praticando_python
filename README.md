@@ -1,7 +1,7 @@
 # Praticando Python
 
 ## Índice
-[Introdução](#1-introdução)
+[Introdução](#1-introdução)  
 [Projeto 01 - Calculadora](#projeto-01---calculadora)
 
 ## Introdução
